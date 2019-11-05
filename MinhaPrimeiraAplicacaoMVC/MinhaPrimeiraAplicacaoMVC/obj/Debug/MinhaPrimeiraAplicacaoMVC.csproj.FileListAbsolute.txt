@@ -1,0 +1,4 @@
+c:\users\lucas.sousa\documents\visual studio 2010\Projects\MinhaPrimeiraAplicacaoMVC\MinhaPrimeiraAplicacaoMVC\bin\MinhaPrimeiraAplicacaoMVC.dll
+c:\users\lucas.sousa\documents\visual studio 2010\Projects\MinhaPrimeiraAplicacaoMVC\MinhaPrimeiraAplicacaoMVC\bin\MinhaPrimeiraAplicacaoMVC.pdb
+c:\users\lucas.sousa\documents\visual studio 2010\Projects\MinhaPrimeiraAplicacaoMVC\MinhaPrimeiraAplicacaoMVC\obj\Debug\MinhaPrimeiraAplicacaoMVC.dll
+c:\users\lucas.sousa\documents\visual studio 2010\Projects\MinhaPrimeiraAplicacaoMVC\MinhaPrimeiraAplicacaoMVC\obj\Debug\MinhaPrimeiraAplicacaoMVC.pdb

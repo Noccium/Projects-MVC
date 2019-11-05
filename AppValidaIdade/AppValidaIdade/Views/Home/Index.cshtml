@@ -1,0 +1,36 @@
+﻿@{
+    Layout = null;
+}
+@model AppValidaIdade.Models.HomeModel
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    @using (Html.BeginForm("Index", "Home"))
+    {
+        <div class="formulario">
+            <div id="campoNome">
+                @Html.LabelFor(x =>  x.campoNome)
+                @Html.TextBoxFor(x => x.campoNome, new { type = "text", placeholder = "Inclua o nome..." })
+                <div>
+                    <small>@Html.ValidationMessageFor(x => x.campoNome) </small>
+                </div>
+            </div>
+            <div id="campoIdade">
+                @Html.LabelFor(x =>  x.campoIdade)
+                @Html.TextBoxFor(x => x.campoIdade, new { type = "number", placeholder = "Inclua a idade..." })
+                <div>
+                    <small>@Html.ValidationMessageFor(x => x.campoIdade)</small>
+                </div>
+            </div>
+            <div id="campoValide">
+                <button>
+                    Valide</button>
+            </div>
+        </div>
+    }
+</body>
+</html>

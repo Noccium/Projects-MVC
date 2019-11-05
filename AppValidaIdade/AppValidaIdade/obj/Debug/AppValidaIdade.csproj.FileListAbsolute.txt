@@ -1,0 +1,4 @@
+c:\users\lucas.sousa\documents\visual studio 2010\Projects\AppValidaIdade\AppValidaIdade\bin\AppValidaIdade.dll
+c:\users\lucas.sousa\documents\visual studio 2010\Projects\AppValidaIdade\AppValidaIdade\bin\AppValidaIdade.pdb
+c:\users\lucas.sousa\documents\visual studio 2010\Projects\AppValidaIdade\AppValidaIdade\obj\Debug\AppValidaIdade.dll
+c:\users\lucas.sousa\documents\visual studio 2010\Projects\AppValidaIdade\AppValidaIdade\obj\Debug\AppValidaIdade.pdb
